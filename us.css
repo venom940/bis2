@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ #im{
+    height: 39vh;
+    float: left;
+    background-image: url(./photo_1_2023-09-25_13-41-30.jpg);
+    padding: 15%;
+    background-position-x:50% ;
+    
+ }
+
+
+ #login{
+    height: 65vh;
+    float: right;
+    margin: 2%;
+    margin-right: 20%;
+    margin-bottom: 60%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1) ;
+    padding: 90px;
+    background-color: rgb(255, 255, 255);
+    
+ }
+
+ input{
+   padding: 10px;
+ }
+
+ #uu{
+   width: 300px;
+   border: hidden;
+   background-color:#edf0ed;
+}
+
+#ww{
+   width: 300px;
+   border: hidden;
+   background-color:#edf0ed;
+}
+
+#ff{
+   margin-left: 93px;
+}
+
+#sub{
+   padding: 10px;
+   width: 320px;
+   background-color: orange;
+   border-radius: 7px;
+   color:white;
+}
+
+#username{
+   margin-bottom: 6px;
+   margin-right: 50px;
+}
+
+#password{
+   margin-bottom: 6px;
+   margin-right: 50px;
+}
+
+#or{
+   text-align: center;
+}
+
+
+#facebookbtn{
+   width: 320px;
+   margin-bottom: 10px;
+   background-color: rgb(48, 48, 251);
+   border-radius: 7px;
+   color: white;
+   background-image: url(./facebook.svg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-position-x:25% ;
+   background-size: 18px;
+   
+}
+
+#googlebtn{
+   width: 320px;
+   border-radius: 7px;
+   background-color: rgb(254, 53, 53);
+   color: white;
+   background-image: url(./logo-google.svg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-position-x:27% ;
+   background-size: 18px;
+   
+}
+
+body{
+   background-color: rgb(247, 244, 244);
+ }
+
+ #ccv{
+   accent-color: rgb(255, 166, 0);
+ }
+
+
+
+
+
+ 
